@@ -1,3 +1,6 @@
-[gd_scene format=3 uid="uid://bebe61mkjmuwc"]
+[gd_scene load_steps=2 format=3 uid="uid://bebe61mkjmuwc"]
+
+[ext_resource type="Script" path="res://scenes/ui/main_menu.gd" id="1_phpq2"]
 
 [node name="MainMenu" type="CanvasLayer"]
+script = ExtResource("1_phpq2")
