@@ -1,8 +1,8 @@
+Node
 AnimationPlayer
 Sprite2D
 Node2D
 CharacterBody2D
-Node
 Timer
 AudioStreamPlayer
 CanvasLayer
