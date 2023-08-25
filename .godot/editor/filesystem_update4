@@ -1,3 +1,5 @@
 res://audio_bus_layout.tres
 res://scenes/autoloads/music_player.tscn
 res://scenes/autoloads/music_player.gd
+res://scenes/autoloads/game_events.tscn
+res://scenes/autoloads/game_events.gd
