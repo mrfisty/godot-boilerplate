@@ -3,3 +3,5 @@ res://scenes/autoloads/music_player.tscn
 res://scenes/autoloads/music_player.gd
 res://scenes/autoloads/game_events.tscn
 res://scenes/autoloads/game_events.gd
+res://scenes/game_objects/Player.tscn
+res://scenes/game_objects/Player.gd
