@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://cwjf5ejei6idr"]
+
+[ext_resource type="Script" path="res://scenes/autoloads/music_player.gd" id="1_e2gkl"]
+
+[node name="MusicPlayer" type="AudioStreamPlayer"]
+script = ExtResource("1_e2gkl")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 15.0
+one_shot = true
