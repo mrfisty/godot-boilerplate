@@ -1,5 +1,5 @@
 2a60927148abd1d33b818b535e306557
-::res://::1691966266
+::res://::1692923723
 icon.svg::CompressedTexture2D::5329262423550887372::1691909984::1691909988::1::::<><>::
 README.md::TextFile::-1::1691910046::0::1::::<><>::
 ::res://assets/::1691910298
@@ -10,7 +10,9 @@ README.md::TextFile::-1::1691910046::0::1::::<><>::
 ::res://scenes/::1691910434
 ::res://scenes/autoloads/::1691910383
 ::res://scenes/components/::1691910420
-::res://scenes/main/::1691910402
+::res://scenes/main/::1691966523
+main.gd::GDScript::-1::1691966523::0::1::::<>Node<>::
+main.tscn::PackedScene::5619425782291322750::1691966523::0::1::::<><>::res://scenes/main/main.gd
 ::res://scenes/managers/::1691910434
 ::res://scenes/ui/::1691911557
 main_menu.gd::GDScript::-1::1691911557::0::1::::<>CanvasLayer<>::
